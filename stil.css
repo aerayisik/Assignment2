@@ -1,0 +1,14 @@
+.features .icon {
+width: 48px;
+height: 48px;
+display: flex;
+align-items: center;
+border-radius: 10px;
+}
+
+.comments .comment {
+  font-size: 1.5rem;
+  font-style: italic;
+  line-height: 36px;
+}
+
